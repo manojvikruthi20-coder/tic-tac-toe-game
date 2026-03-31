@@ -3,7 +3,9 @@
 This repository contains python based interactive Tic-Tac-Toe game.
 
 git clone https://github.com/manojvikruthi20-coder/tic-tac-toe-game/
+
 cd Tic-Tac-Toe
+
 python main.py
 
 Screenshot:
@@ -18,4 +20,5 @@ A track of player scores is maintained
 Click anywhere on the result screen to play again
 
 Author
+
 Manoj
